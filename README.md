@@ -1,1 +1,1 @@
-this is the 0
+This repository contains Shell basics projects for Holberton School.
