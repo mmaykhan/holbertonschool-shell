@@ -1,1 +1,1 @@
-For shell task 0
+This folder contains scripts for shell basics
